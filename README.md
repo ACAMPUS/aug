@@ -20,3 +20,5 @@
 
 2.本插件只支持VSCODE，使用idea或者pycharm等其他集成环境的也可以用vscode让AI开发，idea或pycharm也打开同一项目进行编译调试，体验一样。
 
+3.aug-resource.zip是其他几个打包的
+
